@@ -1,0 +1,69 @@
+
+Topics:
+
+  New Movie Listing Application
+    1. Form to fill the movie details
+    2. On Submit the form should create a new movie
+    3. List the in a grid like structure
+
+  Designing the Layout for Application:
+    1. Header
+    2. Content between the header and Footer
+    3. Footer
+
+    Layout folder:
+      Header, Footer, Content
+    
+    Components: Components used in content
+
+  props vs state
+    Props: static data received for a component
+    State: variable which hold value/data which tend to change during interaction/events
+
+  Working with list
+
+  usage of keys in list rendering:
+    key prop is must while Listing rendering
+    Note: array Index should not used for the key property
+
+    Eg: Consider the rollnos of students in a school
+
+  reusable Components:
+    Analyze the similarities and create common components
+      Cards in the Dashboard are with similarities and contents are changing for each 
+
+  passing dynamic data to component - Introduction
+    eg: Adding movies to Wishlist
+  
+Task:
+
+  Day 21 --> React - Day 2 --> Everyone must have completed Day 21 Task
+  Task –
+    * The rating according to value given
+    * Disable add to cart button when added to card
+    * Remove item from cart & enable add to cart
+    https://startbootstrap.com/previews/shop-homepage
+
+  Day 22: Atleast try half implementation
+    https://startbootstrap.com/previews/sb-admin-2
+    Create the Admin Dashboard like below using React Components
+
+Auto-Complete AI Extensions:
+  1. Co Pilot
+  2. Tabnine
+
+Next Session:
+  Children
+
+  passing dynamic data to component - Deep Dive
+    eg: Adding movies to Wishlist
+
+  Components Life Cycle
+  Online Playground for React
+    codesandbox
+
+
+
+
+
+
