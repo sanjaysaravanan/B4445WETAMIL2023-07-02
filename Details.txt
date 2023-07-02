@@ -53,6 +53,7 @@ Auto-Complete AI Extensions:
   2. Tabnine
 
 Next Session:
+
   Children
 
   passing dynamic data to component - Deep Dive
@@ -61,6 +62,9 @@ Next Session:
   Components Life Cycle
   Online Playground for React
     codesandbox
+  
+  css transition if possible
+
 
 
 
