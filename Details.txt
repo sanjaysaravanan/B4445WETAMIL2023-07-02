@@ -4,7 +4,7 @@ Topics:
   New Movie Listing Application
     1. Form to fill the movie details
     2. On Submit the form should create a new movie
-    3. List the in a grid like structure
+    3. List them in a grid-like structure
 
   Designing the Layout for Application:
     1. Header
@@ -18,7 +18,7 @@ Topics:
 
   props vs state
     Props: static data received for a component
-    State: variable which hold value/data which tend to change during interaction/events
+    State: a variable which holds value/data which tend to change during interaction/events
 
   Working with list
 
